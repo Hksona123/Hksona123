@@ -1,5 +1,5 @@
 <h1>⚡️HARSH KUMAR SONA</h1>
-[![Masterhead](https://drive.google.com/file/d/1I9ZxcvSLPzCNZoePRetdHmbAjkKMBcj-/view?usp=drive_link)]
+![Masterhead](https://www.canva.com/design/DAF1wAXs-Yc/H8phLxlMmyavtAf_4MwxLg/edit?utm_content=DAF1wAXs-Yc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 🔭 I’m currently working on **Attendance by facial recognition**
 
