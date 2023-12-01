@@ -1,6 +1,5 @@
 <h1>⚡️HARSH KUMAR SONA</h1>
-<img src="https://www.canva.com/design/DAF1wAXs-Yc/advB52qoSrlAYjX9c_R8kw/view?utm_content=DAF1wAXs-Yc&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Banner">
-<h2 align="center">Developer & Architect</h2>
+![logo](https://github.com/Hksona123/Hksona123/blob/main/Header%20image.png)
 - 🔭 I’m currently working on **Attendance by facial recognition**
 
 - 🌱 I’m currently learning **MERN Stack and Android Development.**
