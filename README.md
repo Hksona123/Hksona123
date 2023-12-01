@@ -1,5 +1,6 @@
 <h1>⚡️HARSH KUMAR SONA</h1>
-![logo](https://github.com/Hksona123/Hksona123/blob/main/Header%20image.png)
+[![Masterhead](https://drive.google.com/file/d/1I9ZxcvSLPzCNZoePRetdHmbAjkKMBcj-/view?usp=drive_link)]
+
 - 🔭 I’m currently working on **Attendance by facial recognition**
 
 - 🌱 I’m currently learning **MERN Stack and Android Development.**
