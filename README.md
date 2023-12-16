@@ -1,5 +1,11 @@
 <h1>⚡️HARSH KUMAR SONA</h1>
-![Masterhead](https://github.com/Hksona123/Hksona123/blob/main/Header%20image.png)
+
+
+![Masterhead](https://github.com/Hksona123/Hksona123/blob/main/header%20image.png)
+
+
+
+
 
 - 🔭 I’m currently working on **Attendance by facial recognition**
 
