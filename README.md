@@ -1,7 +1,7 @@
 <h1>⚡️HARSH KUMAR SONA</h1>
 
 
-![Masterhead](https://github.com/Hksona123/Hksona123/blob/main/header%20image.png)
+![Header](https://github.com/Hksona123/Hksona123/blob/main/Black%20and%20Blue%20Modern%20Game%20Mode%20Twitter%20Header.jpg)
 
 
 
