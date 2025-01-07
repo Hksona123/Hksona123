@@ -1,6 +1,6 @@
-<h1>⚡️HARSH KUMAR SONA</h1>
+<h1>⚡️UNSPECIFIED USER</h1>
 # 💫 About Me:
--🔭 I’m currently working on android dev.<br>-🌱 I’m currently learning MERN stack and Android development .<br>-Currently a 2nd year B.tech student from CSE branch with specialization in AIML.<br>- 📫 How to reach me **sonasingh0307@gmail.com**
+-🌱 I’m currently learning MERN stack and Android development .<br>-Currently a 3rd year B.tech student from CSE branch with specialization in AIML and HONORS in CYBER SECURITY.<br>- 📫 How to reach me **sonasingh0307@gmail.com**
 
 
 ## 🌐 Socials:
