@@ -1,6 +1,6 @@
 <h1>⚡️UNSPECIFIED USER</h1>
 # 💫 About Me:
-<br>-Currently a 3rd year B.tech student from CSE branch with specialization in AIML and HONORS in CYBER SECURITY.<br>- 📫 How to reach me **sonasingh0307@gmail.com**
+<br>-Currently a final year B.tech student from CSE branch with specialization in AIML and HONORS in CYBER SECURITY.<br>- 📫 How to reach me **sonasingh0307@gmail.com**
 
 
 ## 🌐 Socials:
